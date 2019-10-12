@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Schedule A Job</string>
+    <string name="start_job">Start a job</string>
+    <string name="cancel_job">Cancel all jobs</string>
+    <string name="schedule_job">Schedule Job</string>
+    <string name="cancel_jobs">Cancel Jobs</string>
+    <string name="job_service">Job Service</string>
+    <string name="job_running">Your Job ran to completion!</string>
+    <string name="job_service_notification">Job Service notification</string>
+    <string name="notification_channel_description">Notifications from Job Service</string>
+    <string name="job_scheduled">Job Scheduled, it runs!</string>
+    <string name="jobs_canceled">Jobs Canceled</string>
+</resources>
